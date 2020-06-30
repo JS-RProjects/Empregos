@@ -4,10 +4,10 @@
     <img src="https://img.shields.io/website?down_color=red&url=https%3A%2F%2Fempregos.herokuapp.com%2F">
 </p>
 
-### :bar_chart: Projeto
+## :bar_chart: Projeto
 Plataforma de busca para vagas de emprego desenvolvida em Node.js e ReactJS.
 
-### :rocket: Tecnologias usadas
+## :rocket: Tecnologias usadas
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [MongoDB](https://www.mongodb.com/)
@@ -23,7 +23,7 @@ Bibliotecas de Estilos:
 - sweetalert
 - react-icons
 
-### :computer: Rodando o Backend
+## :computer: Rodando o Backend
 ```bash
 # Clone o repositório
 $ git clone https://github.com/JS-RProjects/Empregos-Backend/tree/master
@@ -40,7 +40,7 @@ $ yarn dev ou npm dev
 # O servidor escutará no endereço: http://localhost:3333
 ```
 
-### :computer: Rodando o Frontend
+## :computer: Rodando o Frontend
 ```bash
 # Clone o repositório
 $ git clone https://github.com/JS-RProjects/Empregos-Frontend/tree/master
