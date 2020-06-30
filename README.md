@@ -6,6 +6,8 @@
 
 ## :bar_chart: Projeto
 Plataforma de busca para vagas de emprego desenvolvida em **Node.js** e **ReactJS**.
+[Backend](backend)
+[Frontend](frontend)
 
 ## :rocket: Tecnologias usadas
 - [Node.js](https://nodejs.org/en/)
