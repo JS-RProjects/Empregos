@@ -5,21 +5,21 @@
 </p>
 
 ## :bar_chart: Projeto
-Plataforma de busca para vagas de emprego desenvolvida em Node.js e ReactJS.
+Plataforma de busca para vagas de emprego desenvolvida em **Node.js** e **ReactJS**.
 
 ## :rocket: Tecnologias usadas
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [MongoDB](https://www.mongodb.com/)
 
-Bibliotecas principais:
+**Bibliotecas principais**:
 
 - Express
 - Mongoose
 - Multer
 - Axios
 
-Bibliotecas de Estilos:
+**Bibliotecas de Estilos**:
 - sweetalert
 - react-icons
 
