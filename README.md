@@ -10,6 +10,8 @@ Plataforma de busca para vagas de emprego desenvolvida em **Node.js** e **ReactJ
 **[Backend](https://github.com/JS-RProjects/Empregos-Backend/tree/master)**                                                                   
 **[Frontend](https://github.com/JS-RProjects/Empregos-Frontend/tree/master)**
 
+---
+
 ## :rocket: Tecnologias usadas
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
@@ -25,6 +27,8 @@ Plataforma de busca para vagas de emprego desenvolvida em **Node.js** e **ReactJ
 **Bibliotecas de Estilos**:
 - sweetalert
 - react-icons
+
+---
 
 ## :computer: Rodando o Backend
 ```bash
@@ -59,3 +63,12 @@ $ yarn start ou npm start
 
 # O servidor escutará no endereço: http://localhost:3000
 ```
+
+---
+
+## :page_with_curl: License
+Projeto está sob a licensa [MIT](LICENSE).
+
+---
+
+<h2 align="center">&lt;/&gt; by <a href"https://github.com/ReddyyZ">ReddyyZ</a></h2>
