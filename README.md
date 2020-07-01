@@ -30,6 +30,16 @@ Plataforma de busca para vagas de emprego desenvolvida em **Node.js** e **ReactJ
 
 ---
 
+## :file_folder: Telas
+
+<img width="500px" src="telas/home.png">
+<img width="500px" src="telas/logar.png">
+<img width="500px" src="telas/cadastrar.png">
+<img width="500px" src="telas/vagas.png">
+<img width="500px" src="telas/vagas_new.png">
+
+---
+
 ## :computer: Rodando o Backend
 ```bash
 # Clone o repositório
