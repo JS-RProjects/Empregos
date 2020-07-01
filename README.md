@@ -1,7 +1,11 @@
 <h1 align="center">Empregos++;</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/website?down_color=red&url=https%3A%2F%2Fempregos.herokuapp.com%2F">
+    <a href="https://empregos.herokuapp.com"><img src="https://img.shields.io/website?down_color=red&url=https%3A%2F%2Fempregos.herokuapp.com%2F"></a>
+    <a href="https://discord.gg/v5d3PZ9"><img src="https://img.shields.io/discord/704882848364101763"></a>
+    <img src="https://img.shields.io/github/repo-size/JS-RProjects/Empregos-Backend?label=backend%20size">
+    <img src="https://img.shields.io/github/repo-size/JS-RProjects/Empregos-Frontend?label=frontend%20size">
+    <img src="https://img.shields.io/badge/nodejs-14.2.0-green">
 </p>
 
 ## :bar_chart: Projeto
