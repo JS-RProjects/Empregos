@@ -81,4 +81,4 @@ Projeto está sob a licensa [MIT](LICENSE).
 
 ---
 
-<h2 align="center">&lt;/&gt; by <a href"https://github.com/ReddyyZ">ReddyyZ</a></h2>
+<h2 align="center">&lt;/&gt; by <a href="https://github.com/ReddyyZ">ReddyyZ</a></h2>
